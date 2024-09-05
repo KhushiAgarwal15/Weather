@@ -103,8 +103,8 @@
 }
 
 @media (max-width: 352px) {
-  .input-field {
-    font-size: 10px;
+  .input-field, .btn {
+    font-size: 18px;
     padding: 6px 12px;
     width: calc(100% - 16px);
   }
